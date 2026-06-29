@@ -2,7 +2,7 @@
 
 📊 **Data Scientist & ML Enthusiast**
 
-I’m a student at VSU FKN focused on extracting value from data.
+I'm a student at VSU FKN focused on extracting value from data.
 My work centers around **Python and SQL**, building predictive models, conducting A/B tests, and designing analytical dashboards that drive business decisions.
 
 I enjoy exploring **machine learning algorithms, statistical analysis, and product metrics**, turning raw data into actionable insights for fintech and banking sectors.
@@ -35,22 +35,34 @@ I enjoy exploring **machine learning algorithms, statistical analysis, and produ
 
 # 💼 Featured Projects
 
-### 1. 📉 Churn Prediction (Banking)
-*Python, sklearn, RandomForest, GradientBoosting*
-- Conducted feature engineering on transaction data to identify churn drivers.
-- Compared 5 models; achieved best performance with **GradientBoosting (F1=0.89)**.
-- Identified key churn factors: low activity and lack of reactivation.
+### 1. 🔢 Classification of Handwritten Numerals
+*Python, OpenML Dataset, Basic Classifier*
+- Built the most basic classifier for handwritten digit recognition using the [OpenML dataset (ID: 554)](https://www.openml.org/d/554).
+- Explored fundamental classification approaches as a starting point in computer vision and ML.
+- Gained hands-on experience with image-based feature extraction and model evaluation.
 
-### 2. 🧪 A/B Test Analysis (Fintech)
-*SQL, Python (pandas, scipy), Statistics*
-- Analyzed results of a new onboarding funnel test.
-- Calculated statistical significance (**p-value < 0.01**) and conversion uplift (**+14%**).
-- Validated impact on retention and recommended feature launch.
+### 2. 🌸 ML Models on Iris Dataset
+*Python, Scikit-learn, Pandas*
+- My entry point into machine learning — explored foundational ML models on the classic Iris dataset.
+- Implemented and compared multiple classification algorithms to understand their strengths and weaknesses.
+- Practiced EDA, train/test splitting, and model performance evaluation from scratch.
 
-### 3.  Product Metrics Dashboard
-*SQL, Python (Plotly), Excel*
-- Automated tracking of DAU, conversion rates, and average check.
-- Visualized trends and anomalies, enabling rapid team response to metric changes.
+### 3.  docFlow — Document Processing Script
+*Python, Hackathon (MPIT), File Processing*
+- Built during the MPIT hackathon as a script for processing various document/file types.
+- Separated documents into header and tabular sections; added support for `.png`/`.jpg` file processing.
+- Demonstrated practical automation skills under time-constrained hackathon conditions.
+
+### 4. 📐 Visualization of Darboux Sums
+*Python, Matplotlib, Interactive Math*
+- Created a dynamic visualization of Darboux sums with adjustable partition diameter (from 5 to 100) for f(x) = x².
+- Combined mathematical theory with interactive visual output to deepen understanding of Riemann integration.
+- Showcased ability to translate abstract math concepts into intuitive graphical representations.
+
+### 5. 🧠 SecondBrain *(Fork)*
+*Shell, Knowledge Management*
+- Forked from alex9127git/SecondBrain — a personal knowledge management tool.
+- Explored shell-based automation for organizing and retrieving notes efficiently.
 
 ---
 
