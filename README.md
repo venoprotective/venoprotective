@@ -1,74 +1,65 @@
-<div align="center">
-  <!-- Анимированная строка -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dmitry+Peregudov;Data+Science+%26+ML+Enthusiast;Python+%7C+SQL+%7C+A%2FB+Testing;Student+at+VSU+FKN" alt="Typing SVG" />
-</div>
+# Hi, I'm Dmitry Peregudov 👋
 
-<br/>
+📊 **Data Scientist & ML Enthusiast**
 
-<!-- Основная статистика -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venoprotective&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=venoprotective&theme=radical&hide_border=true&background=0D1117&ring=00FF7F&fire=00FF7F" />
-</div>
+I’m a student at VSU FKN focused on extracting value from data.
+My work centers around **Python and SQL**, building predictive models, conducting A/B tests, and designing analytical dashboards that drive business decisions.
 
-<br/>
+I enjoy exploring **machine learning algorithms, statistical analysis, and product metrics**, turning raw data into actionable insights for fintech and banking sectors.
 
-<!-- Топ языков -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venoprotective&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FF7F" />
-</div>
+---
 
-<br/>
+# 🚀 Tech Stack
 
-<!-- Технологический стек (из резюме) -->
-<h3 align="center">🛠 Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,pandas,numpy,sql,git,linux,docker,vscode&theme=dark" />
-</p>
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0866FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel/VBA](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<br/>
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Проекты из резюме -->
-<h3 align="center"> Featured Projects</h3>
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <b>📉 Churn Prediction</b><br/>
-        Прогнозирование оттока клиентов банка (GradientBoosting, F1=0.89).<br/>
-        <code>Python • sklearn • Feature Engineering</code>
-      </td>
-      <td width="50%" valign="top">
-        <b> A/B Test Analysis</b><br/>
-        Анализ воронки fintech-приложения (uplift +14%, p-value < 0.01).<br/>
-        <code>SQL • Python • Statistics</code>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <b> Product Metrics Dashboard</b><br/>
-        Автоматизация трекинга DAU, конверсии и среднего чека.<br/>
-        <code>SQL • Plotly • Excel/VBA</code>
-      </td>
-      <td width="50%" valign="top">
-        <b>🔢 Handwritten Numerals</b><br/>
-        Классификатор рукописных цифр на базе OpenML dataset.<br/>
-        <code>Python • KNN/SVM • Computer Vision</code>
-      </td>
-    </tr>
-  </table>
-</div>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<br/>
+---
 
-<!-- Контакты -->
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
-  <a href="mailto:chessimas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/chessdimas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+# 💼 Featured Projects
 
-<div align="center">
-  <sub>Built with ❤️ and Python | VSU FKN Student</sub>
-</div>
+### 1. 📉 Churn Prediction (Banking)
+*Python, sklearn, RandomForest, GradientBoosting*
+- Conducted feature engineering on transaction data to identify churn drivers.
+- Compared 5 models; achieved best performance with **GradientBoosting (F1=0.89)**.
+- Identified key churn factors: low activity and lack of reactivation.
+
+### 2. 🧪 A/B Test Analysis (Fintech)
+*SQL, Python (pandas, scipy), Statistics*
+- Analyzed results of a new onboarding funnel test.
+- Calculated statistical significance (**p-value < 0.01**) and conversion uplift (**+14%**).
+- Validated impact on retention and recommended feature launch.
+
+### 3.  Product Metrics Dashboard
+*SQL, Python (Plotly), Excel*
+- Automated tracking of DAU, conversion rates, and average check.
+- Visualized trends and anomalies, enabling rapid team response to metric changes.
+
+---
+
+#  Education
+**VSU, Faculty of Computer Science (FKN)** | Software Engineering (1st Year)
+
+---
+
+# 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-chessimas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chessimas@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@chessdimas-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chessdimas)
+[![GitHub](https://img.shields.io/badge/GitHub-venoprotective-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venoprotective)
