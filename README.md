@@ -2,7 +2,6 @@
 
 📊 **Data Scientist & ML Enthusiast**
 
-I'm a student at VSU FKN focused on extracting value from data.
 My work centers around **Python and SQL**, building predictive models, conducting A/B tests, and designing analytical dashboards that drive business decisions.
 
 I enjoy exploring **machine learning algorithms, statistical analysis, and product metrics**, turning raw data into actionable insights for fintech and banking sectors.
@@ -67,11 +66,11 @@ I enjoy exploring **machine learning algorithms, statistical analysis, and produ
 ---
 
 #  Education
-**VSU, Faculty of Computer Science (FKN)** | Software Engineering (1st Year)
+**VSU, Faculty of Computer Science (FCS)** | Software Engineering (2st Year)
 
 ---
 
 # 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-chessimas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chessimas@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@chessdimas-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chessdimas)
+[![Email](https://img.shields.io/badge/Email-chessdimas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chessdimas@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@NeNotice9-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeNotice9)
 [![GitHub](https://img.shields.io/badge/GitHub-venoprotective-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venoprotective)
